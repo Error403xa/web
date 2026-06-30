@@ -1,0 +1,12 @@
+C:\Users\xue5174\Desktop\web\web\backend\WebRemoteControl.Core\bin\Debug\net8.0\WebRemoteControl.Core.deps.json
+C:\Users\xue5174\Desktop\web\web\backend\WebRemoteControl.Core\bin\Debug\net8.0\WebRemoteControl.Core.dll
+C:\Users\xue5174\Desktop\web\web\backend\WebRemoteControl.Core\bin\Debug\net8.0\WebRemoteControl.Core.pdb
+C:\Users\xue5174\Desktop\web\web\backend\WebRemoteControl.Core\obj\Debug\net8.0\WebRemoteControl.Core.csproj.AssemblyReference.cache
+C:\Users\xue5174\Desktop\web\web\backend\WebRemoteControl.Core\obj\Debug\net8.0\WebRemoteControl.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xue5174\Desktop\web\web\backend\WebRemoteControl.Core\obj\Debug\net8.0\WebRemoteControl.Core.AssemblyInfoInputs.cache
+C:\Users\xue5174\Desktop\web\web\backend\WebRemoteControl.Core\obj\Debug\net8.0\WebRemoteControl.Core.AssemblyInfo.cs
+C:\Users\xue5174\Desktop\web\web\backend\WebRemoteControl.Core\obj\Debug\net8.0\WebRemoteControl.Core.csproj.CoreCompileInputs.cache
+C:\Users\xue5174\Desktop\web\web\backend\WebRemoteControl.Core\obj\Debug\net8.0\WebRemoteControl.Core.dll
+C:\Users\xue5174\Desktop\web\web\backend\WebRemoteControl.Core\obj\Debug\net8.0\refint\WebRemoteControl.Core.dll
+C:\Users\xue5174\Desktop\web\web\backend\WebRemoteControl.Core\obj\Debug\net8.0\WebRemoteControl.Core.pdb
+C:\Users\xue5174\Desktop\web\web\backend\WebRemoteControl.Core\obj\Debug\net8.0\ref\WebRemoteControl.Core.dll
